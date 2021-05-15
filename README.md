@@ -30,7 +30,5 @@
 ### Some Stats About Piyush (Public Only)
 <img alt="Piyush's github stats" src="https://github-readme-stats.vercel.app/api?username=Pacifier25&show_icons=true&theme=material-palenight"  > </p>
 
-<p align="right"
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pacifier25&show_icons=true&&theme=material-palenight)
-</p>
+![Top Langs](img align="center" https://github-readme-stats.vercel.app/api/top-langs/?username=Pacifier25&show_icons=true&&theme=material-palenight)
 
