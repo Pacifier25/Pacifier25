@@ -1,4 +1,17 @@
-### Hi there I am Piyush Bist<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
+### Hi there I am Piyush Bist<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=Pacifier25&style=flat-square)
+<p>
+  <em>
+    A <b>business analytics student</b> <img src="https://media1.giphy.com/media/ZVik7pBtu9dNS/200w.webp?cid=ecf05e47aibq4xts0qlft5iyaj6pbl3srx0dj58okxkydlka&rid=200w.webp&ct=g" width=20 height=20> and a passionate self-taught <b>ML programmer</b> <img src="https://media1.giphy.com/media/ZVik7pBtu9dNS/200w.webp?cid=ecf05e47aibq4xts0qlft5iyaj6pbl3srx0dj58okxkydlka&rid=200w.webp&ct=g" width=35 height=25> from Neyveli, India.
+  </em>
+ </p>
+
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif" />
+
+<em>
+  
 
 - 🔭 I’m currently working on machine learning projects
 - 🌱 I’m currently learning tensor flow
@@ -7,6 +20,8 @@
 - 📫 How to reach me: Gmail - piyushbist10@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Your eyes blink around 20 times a minute. ..
+
+  
 
 ### Worked with
 
