@@ -4,7 +4,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Pacifier25&style=flat-square)
 <p>
   <em>
-    A <b>business analytics student</b> <img src="https://media1.giphy.com/media/ZVik7pBtu9dNS/200w.webp?cid=ecf05e47aibq4xts0qlft5iyaj6pbl3srx0dj58okxkydlka&rid=200w.webp&ct=g" width=20 height=20> and a passionate self-taught <b>ML programmer</b> <img src="https://media1.giphy.com/media/ZVik7pBtu9dNS/200w.webp?cid=ecf05e47aibq4xts0qlft5iyaj6pbl3srx0dj58okxkydlka&rid=200w.webp&ct=g" width=35 height=25> from Neyveli, India.
+   <img src="https://media1.giphy.com/media/ZVik7pBtu9dNS/200w.webp?cid=ecf05e47aibq4xts0qlft5iyaj6pbl3srx0dj58okxkydlka&rid=200w.webp&ct=g" width=20 height=20> 
+    <img src="https://media1.giphy.com/media/ZVik7pBtu9dNS/200w.webp?cid=ecf05e47aibq4xts0qlft5iyaj6pbl3srx0dj58okxkydlka&rid=200w.webp&ct=g" width=35 height=25> 
   </em>
  </p>
 
