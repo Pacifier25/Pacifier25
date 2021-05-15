@@ -1,8 +1,15 @@
 ### Hi there I am Piyush Bist<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 
-src="https://media1.giphy.com/media/ZVik7pBtu9dNS/200w.webp?cid=ecf05e47aibq4xts0qlft5iyaj6pbl3srx0dj58okxkydlka&rid=200w.webp&ct=g" />
+![Profile Views](https://komarev.com/ghpvc/?username=benroshan100&style=flat-square)
+<p>
+  <em>
+  </em>
+ </p>
 
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://media1.giphy.com/media/ZVik7pBtu9dNS/200w.webpcid=ecf05e47aibq4xts0qlft5iyaj6pbl3srx0dj58okxkydlka&rid=200w.webp&ct=g.gif" />
 
+<em>
+  
   
 
 - 🔭 I’m currently working on machine learning projects
