@@ -9,7 +9,7 @@
   </em>
  </p>
 
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif" />
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://media1.giphy.com/media/ZVik7pBtu9dNS/200w.webpcid=ecf05e47aibq4xts0qlft5iyaj6pbl3srx0dj58okxkydlka&rid=200w.webp&ct=g" />
 
 <em>
   
