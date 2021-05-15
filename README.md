@@ -1,6 +1,5 @@
 ### Hi there I am Piyush Bist<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 
-<img src="https://github.githubassets.com/images/mona-whisper.gif" height="245" /></h2>
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="330" />
 <p><em>Front-end Engineer at <a href="https://afi.team/team/">Alipay AFI</a> . </em>
 
