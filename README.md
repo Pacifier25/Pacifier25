@@ -1,4 +1,4 @@
-### Hi there I am Piyush Bist 👋  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
+### Hi there I am Piyush Bist<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
 
 - 🔭 I’m currently working on machine learning projects
 - 🌱 I’m currently learning tensor flow
