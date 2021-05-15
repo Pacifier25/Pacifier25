@@ -25,3 +25,8 @@
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" title="matplotlib"></code>
 <code><img height="40" src="https://3.bp.blogspot.com/-d-nV7xJRmpw/Xo328dcAx3I/AAAAAAAAC7Q/qlqJOle6XIosJ3CGIDJ04F3Voh1iXDg0gCLcBGAsYHQ/s1600/TF_FullColor_Icon.jpg" title="tensorflow"></code>
 <code><img height="40" src="https://img.stackshare.io/service/5601/keras.png" title="keras"></code>
+
+
+### Some Stats About Piyush (Public Only)
+<p align="center" >
+<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=Pacifier25&show_icons=true&theme=merko"  > </p>
