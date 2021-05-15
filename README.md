@@ -28,5 +28,4 @@
 
 
 ### Some Stats About Piyush (Public Only)
-<p align="center" >
-<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=Pacifier25&show_icons=true&theme=merko"  > </p>
+<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=Pacifier25&show_icons=true&theme=blue"  > </p>
