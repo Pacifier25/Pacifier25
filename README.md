@@ -27,7 +27,7 @@
 <code><img height="40" src="https://img.stackshare.io/service/5601/keras.png" title="keras"></code>
 
 
-### Some Stats About Piyush (Public Only)
+### Some Stats About Piyush 
 <img alt="Piyush's github stats" src="https://github-readme-stats.vercel.app/api?username=Pacifier25&show_icons=true&theme=material-palenight"> 
 
 
