@@ -29,5 +29,5 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=Pacifier25&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <a href="https://github.com/username=Pacifier25/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=username=Pacifier25&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.Pacifier25.vercel.app/api/top-langs/?username=username=Pacifier25&layout=compact&theme=material-palenight" />
 </a>
