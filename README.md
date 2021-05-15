@@ -1,17 +1,5 @@
 ### Hi there I am Piyush Bist<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 
-![Profile Views](https://komarev.com/ghpvc/?username=benroshan100&style=flat-square)
-<p>
-  <em>
-  </em>
- </p>
-
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif" />
-
-<em>
-  
-  
-
 - 🔭 I’m currently working on machine learning projects
 - 🌱 I’m currently learning tensor flow
 - 🤔 I’m looking for internships
