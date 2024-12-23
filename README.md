@@ -4,7 +4,7 @@
 <p>
 
 - 🔭 I’m currently working on machine learning projects
-- 🌱 I’m currently learning tensor flow
+- 🌱 I’m currently learning pytorch
 - 🤔 I’m looking for internships
 - 💬 Ask me about machine learning or anything about scikit learn
 - 📫 How to reach me: Gmail - piyushbist10@gmail.com
